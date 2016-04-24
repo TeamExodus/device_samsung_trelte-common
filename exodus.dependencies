@@ -1,0 +1,38 @@
+[
+    {
+        "repository": "external_stlport",
+        "target_path": "external/stlport"
+    },
+    {
+        "repository": "packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode"
+    },
+    {
+        "repository": "hardware_samsung",
+        "target_path": "hardware/samsung"
+    },
+    {
+        "repository": "hardware_samsung_slsi-cm_exynos",
+        "target_path": "hardware/samsung_slsi-cm/exynos"
+    },
+    {
+        "repository": "hardware_samsung_slsi-cm_exynos5",
+        "target_path": "hardware/samsung_slsi-cm/exynos5"
+    },
+    {
+        "repository": "hardware_samsung_slsi-cm_exynos5433",
+        "target_path": "hardware/samsung_slsi-cm/exynos5433"
+    },
+    {
+        "repository": "hardware_samsung_slsi-cm_openmax",
+        "target_path": "hardware/samsung_slsi-cm/openmax"
+    },
+    {
+        "repository": "kernel_samsung_trelte",
+        "target_path": "kernel/samsung/trelte"
+    },
+    {
+        "repository": "vendor_samsung_trelte-common",
+        "target_path": "vendor/samsung/trelte-common"
+    }
+]
